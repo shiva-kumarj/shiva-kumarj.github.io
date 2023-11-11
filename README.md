@@ -73,9 +73,12 @@ _**Other Platforms**_: Linux, Docker, Databricks.
 
 ### Other Interests
 
+* IOT Makers: Smart City Hackathon
+  * VRSE College: IOT Makers
+  * Aditya Engineering College: IOT Makers\
+  
 * Avid book reader
   * Favourite genres: Fantasy Fiction and self help.
-*  
 
 > This is a blockquote following a header.
 >
