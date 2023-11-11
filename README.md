@@ -10,9 +10,20 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!-- **FlyEasy**
+_Mobile App Developer_
+- Frontend developer for the FlyEasy mobile application.
+- Converted design screens into working mockups. -->
+
+**Qualcomm Inc**
+_Customer Engineer_
+- Conducted comprehensive evaluations of error logs within the mobile security module efficiently
+identifying and addressing the root causes behind system malfunctions.
+ - Worked on Android security feature commercialization for Mobile and IoT products.
+ - Demonstrated problem-solving skills by effectively troubleshooting system failures across diverse
+technological stacks achieving quick resolution.
 
 ## Header 2
 
