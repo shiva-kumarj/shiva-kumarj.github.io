@@ -12,7 +12,6 @@ _Mobile App Developer_
 - Converted design screens into working mockups. -->
 
 **Qualcomm Inc**
-
 _Customer Engineer_
 - Conducted comprehensive evaluations of error logs within the mobile security module efficiently
 identifying and addressing the root causes behind system malfunctions.
