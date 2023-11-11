@@ -2,13 +2,7 @@
 Hi, I am **Shiva Kumar Jayaraman**. I am a seasoned software engineer, and a competent Data Analyst. Below is a glimpse of my career so far. 
 My career began as an Software Engineer for an Embedded company. I have very keen eye for all things data so for the next phase of my career I pivot into becoming a **Data Scientist**. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 <!-- [Link to another page](./another-page.html). -->
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Experience
 
@@ -18,6 +12,7 @@ _Mobile App Developer_
 - Converted design screens into working mockups. -->
 
 **Qualcomm Inc**
+
 _Customer Engineer_
 - Conducted comprehensive evaluations of error logs within the mobile security module efficiently
 identifying and addressing the root causes behind system malfunctions.
