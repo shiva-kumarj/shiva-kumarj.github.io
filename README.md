@@ -6,12 +6,15 @@ My career began as an Software Engineer for an Embedded company. I have very kee
 
 # Experience
 
-My professional career has been multifaceted. I've been a Embedded Engineer largely. Now I work to  into Machine Learning and Data analytics.  
+My professional career has been multifaceted. I've been a Embedded Engineer largely in the first half. Now I create innovative solutions for interesting problems using Data Analysis and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
 
 <!-- **FlyEasy**
 _Mobile App Developer_
 - Frontend developer for the FlyEasy mobile application.
 - Converted design screens into working mockups. -->
+
+## Embedded Engineer
+
 
 **Qualcomm Inc**
 _Customer Engineer_
@@ -20,6 +23,23 @@ identifying and addressing the root causes behind system malfunctions.
 * Worked on Android security feature commercialization for Mobile and IoT products.
 * Demonstrated problem-solving skills by effectively troubleshooting system failures across diverse
 technological stacks achieving quick resolution.
+
+* * *
+
+_Developer & Traige Engineer_
+* Coordinated Integration and validation of an innovative ultra-low-power mode named Quick Boot,
+resulting in 86% diminished sleep state current usage and reduced boot-up time by 70
+* Leveraged expertise in memory optimization to achieve a 90% reduction in footprint.
+* Took charge of developing and revising product documentation, ensuring it remained up-to-date
+with the latest specifications and enhancements.
+* Streamlined the validation process by developing testing scripts, cutting testing time in half.
+* Pioneered new approaches for device recovery from its bricked state, cutting testing time by 40%.
+* Demonstrated exceptional problem-solving abilities by diagnosing and resolving critical bugs in
+the Firmware Update module contributing to a seamless production process.
+* Collaborated with product managers and engineers to triage product malfunction.
+* Presented validation report to senior management and technical teams.
+
+
 
 ## Header 2
 
