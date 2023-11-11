@@ -80,7 +80,7 @@ _**Other Platforms**_: Linux, Docker, Databricks.
 * Avid book reader
   * Favourite genres: Fantasy Fiction and self help.
 
-> This is a blockquote following a header.
+<!-- > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -184,4 +184,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
