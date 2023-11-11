@@ -38,8 +38,7 @@ with the latest specifications and enhancements.
 * Collaborated with product managers and engineers to triage product malfunction.
 * Presented validation report to senior management and technical teams.
 
-* * *
-
+***
 ### Projects
 
 _**Improving Restaurant Customer Satisfaction: A Dashboard**_
@@ -61,6 +60,8 @@ _**Project Greenjade: Music recommendation engine (Based on your mood)**_
 * Developed a comprehensive project report encompassing the project approach, Exploratory Data Analysis, model building, and model performance evaluation. 
 * Goes through the songs you have listened to in the last few hours analyses the emotions and comes up with songs to help them process them.
 
+***
+
 ### Technical Skills
 
 _**Programming Languages**_ : Python, LaTeX, PySpark, SparkSQL, Bash, HTML, CSS.
@@ -70,6 +71,8 @@ _**Database**_: Microsoft SQL Server, SQL, MySQL, Hive, MongoDB, Data modeling.
 _**AWS Services**_: Glue, RDS, Athena, EMR, S3, EC2.
 
 _**Other Platforms**_: Linux, Docker, Databricks.
+
+***
 
 ### Other Interests
 
