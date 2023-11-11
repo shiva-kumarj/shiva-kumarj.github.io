@@ -1,10 +1,11 @@
-# Introduction
+## Introduction
 Hi, I am **Shiva Kumar Jayaraman**. I am a seasoned software engineer, and a competent Data Analyst. Below is a glimpse of my career so far. 
 My career began as an Software Engineer for an Embedded company. I have very keen eye for all things data so for the next phase of my career I pivot into becoming a **Data Scientist**. 
 
 <!-- [Link to another page](./another-page.html). -->
+***
 
-# Experience
+## Experience
 
 My professional career has been multifaceted. I've been a Embedded Engineer largely in the first half. Now I create innovative solutions for interesting problems using Data Analysis, Natural Language Processing and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
 
@@ -13,7 +14,7 @@ _Mobile App Developer_
 - Frontend developer for the FlyEasy mobile application.
 - Converted design screens into working mockups. -->
 
-## Embedded Engineer
+### Embedded Engineer
 
 **Qualcomm Inc**
 _Customer Engineer_
@@ -39,16 +40,42 @@ with the latest specifications and enhancements.
 
 * * *
 
-## Projects
+### Projects
 
-**Improving Restaurant Customer Satisfaction: A Dashboard**
+_**Improving Restaurant Customer Satisfaction: A Dashboard**_
 
-**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding**
+* Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve
+business.
+* Developed a dynamic and adaptable customer satisfaction dashboard by performing natural language processing techniques on Yelp’s 8Gb business data.
+* Provided targeted analysis on restaurant performance and customer satisfaction reports, yielding
+actionable insights to facilitate restaurant improvement.
+* Automated report generation which would be sent to required stakeholders
 
-**Project Greenjade: Music recommendation engine based on your mood**
 
+_**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding**_
 
-## Header 2
+* Created statistical analysis of data and model building to predict optimum Cost Per Million for Real-Time Bidding with an error margin of ±0.43$.
+
+_**Project Greenjade: Music recommendation engine (Based on your mood)**_
+
+* Developed a comprehensive project report encompassing the project approach, Exploratory Data Analysis, model building, and model performance evaluation. 
+* Goes through the songs you have listened to in the last few hours analyses the emotions and comes up with songs to help them process them.
+
+### Technical Skills
+
+_**Programming Languages**_ : Python, LaTeX, PySpark, SparkSQL, Bash, HTML, CSS.
+
+_**Database**_: Microsoft SQL Server, SQL, MySQL, Hive, MongoDB, Data modeling.
+
+_**AWS Services**_: Glue, RDS, Athena, EMR, S3, EC2.
+
+_**Other Platforms**_: Linux, Docker, Databricks.
+
+### Other Interests
+
+* Avid book reader
+  * Favourite genres: Fantasy Fiction and self help.
+*  
 
 > This is a blockquote following a header.
 >
