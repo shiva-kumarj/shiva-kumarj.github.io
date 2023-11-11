@@ -6,6 +6,8 @@ My career began as an Software Engineer for an Embedded company. I have very kee
 
 # Experience
 
+My professional career has been multifaceted. I've been a Embedded Engineer largely. Now I work to  into Machine Learning and Data analytics.  
+
 <!-- **FlyEasy**
 _Mobile App Developer_
 - Frontend developer for the FlyEasy mobile application.
@@ -13,10 +15,10 @@ _Mobile App Developer_
 
 **Qualcomm Inc**
 _Customer Engineer_
-- Conducted comprehensive evaluations of error logs within the mobile security module efficiently
+* Conducted comprehensive evaluations of error logs within the mobile security module efficiently
 identifying and addressing the root causes behind system malfunctions.
- - Worked on Android security feature commercialization for Mobile and IoT products.
- - Demonstrated problem-solving skills by effectively troubleshooting system failures across diverse
+* Worked on Android security feature commercialization for Mobile and IoT products.
+* Demonstrated problem-solving skills by effectively troubleshooting system failures across diverse
 technological stacks achieving quick resolution.
 
 ## Header 2
