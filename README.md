@@ -82,6 +82,10 @@ _**Other Platforms**_: Linux, Docker, Databricks.
   
 * Avid book reader
   * Favourite genres: Fantasy Fiction and self help.
+  
+  
+> _The most important step is always the next one._
+>                                         _Dalinar_
 
 <!-- > This is a blockquote following a header.
 >
