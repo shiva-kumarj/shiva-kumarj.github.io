@@ -41,7 +41,8 @@ with the latest specifications and enhancements.
 ***
 ### Projects
 
-_**Improving Restaurant Customer Satisfaction: A Dashboard**_
+[_**Improving Restaurant Customer Satisfaction: A Dashboard**_](https://shiva-kumarj.github.io/greenjade)
+
 
 * Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve
 business.
@@ -83,9 +84,8 @@ _**Other Platforms**_: Linux, Docker, Databricks.
 * Avid book reader
   * Favourite genres: Fantasy Fiction and self help.
   
-  
-> _The most important step is always the next one._
->                                         _Dalinar_
+
+> _The most important step is always the next one._ **Dalinar**
 
 <!-- > This is a blockquote following a header.
 >
