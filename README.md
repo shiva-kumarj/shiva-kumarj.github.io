@@ -5,6 +5,23 @@ My career began as an Software Engineer for an Embedded company. I have very kee
 <!-- [Link to another page](./another-page.html). -->
 ***
 
+## Projects
+
+[_**RestoReport: NLP-Driven Customer Insight Platform**_](https://shiva-kumarj.github.io/restoreport)
+
+* Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve
+their restaurant.
+
+_**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding**_
+
+* Created statistical analysis of data and model building to predict optimum Cost Per Million for Real-Time Bidding with an error margin of ±0.43$.
+
+[_**Project Greenjade: Music recommendation engine (Based on your mood)**_](https://shiva-kumarj.github.io/greenjade) 
+
+* Recommends a few songs to help suited to the mood of the songs you pick.
+
+***
+
 ## Experience
 
 My professional career has been multifaceted. I've been a Embedded Engineer largely in the first half. Now I create innovative solutions for interesting problems using Data Analysis, Natural Language Processing and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
@@ -37,29 +54,6 @@ with the latest specifications and enhancements.
 * Demonstrated exceptional problem-solving abilities by diagnosing and resolving critical bugs in the Firmware Update module contributing to a seamless production process.
 * Collaborated with product managers and engineers to triage product malfunction.
 * Presented validation report to senior management and technical teams.
-
-***
-### Projects
-
-[_**Improving Restaurant Customer Satisfaction: A Dashboard**_](https://shiva-kumarj.github.io/greenjade)
-
-
-* Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve
-business.
-* Developed a dynamic and adaptable customer satisfaction dashboard by performing natural language processing techniques on Yelp’s 8Gb business data.
-* Provided targeted analysis on restaurant performance and customer satisfaction reports, yielding
-actionable insights to facilitate restaurant improvement.
-* Automated report generation which would be sent to required stakeholders
-
-
-_**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding**_
-
-* Created statistical analysis of data and model building to predict optimum Cost Per Million for Real-Time Bidding with an error margin of ±0.43$.
-
-_**Project Greenjade: Music recommendation engine (Based on your mood)**_
-
-* Developed a comprehensive project report encompassing the project approach, Exploratory Data Analysis, model building, and model performance evaluation. 
-* Goes through the songs you have listened to in the last few hours analyses the emotions and comes up with songs to help them process them.
 
 ***
 
