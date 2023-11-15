@@ -9,16 +9,15 @@ My career began as an Software Engineer for an Embedded company. I have very kee
 
 [_**RestoReport: NLP-Driven Customer Insight Platform**_](https://shiva-kumarj.github.io/restoreport)
 
-Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve
-their restaurant.
+> Empowering restaurant owners to leverage the unexplored resource of customer reviews to improve their restaurant.
 
 _**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding**_
 
-Created statistical analysis of data and model building to predict optimum Cost Per Million for Real-Time Bidding with an error margin of ±0.43$.
+> Created statistical analysis of data and model building to predict optimum Cost Per Million for Real-Time Bidding with an error margin of ±0.43$.
 
 [_**Project Greenjade: Music recommendation engine (Based on your mood)**_](https://shiva-kumarj.github.io/greenjade) 
 
-Recommends a few songs to help suited to the mood of the songs you pick.
+> Recommends a few songs to help suited to the mood of the songs you pick.
 
 ***
 
