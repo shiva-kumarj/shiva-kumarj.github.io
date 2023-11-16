@@ -33,26 +33,10 @@ _Mobile App Developer_
 ### Embedded Engineer
 
 **Qualcomm Inc**
-_Customer Engineer_
-* Conducted comprehensive evaluations of error logs within the mobile security module efficiently
-identifying and addressing the root causes behind system malfunctions.
-* Worked on Android security feature commercialization for Mobile and IoT products.
-* Demonstrated problem-solving skills by effectively troubleshooting system failures across diverse
-technological stacks achieving quick resolution.
+_Software Engineer: Developer_
 
+As a Customer Engineer at Qualcomm Inc, I analyzed and fixed problems in mobile security modules, making sure systems worked smoothly. I also helped make Android security features for phones and IoT devices. In my role as a Developer and Triage Engineer at Qualcomm, I improved a low-power mode, reduced memory use, and made product documentation better. I also made testing faster, fixed important bugs, and worked with others to fix product issues.
 
-**Qualcomm Inc**
-_Developer & Traige Engineer_
-* Coordinated Integration and validation of an innovative ultra-low-power mode named Quick Boot,
-resulting in 86% diminished sleep state current usage and reduced boot-up time.
-* Leveraged expertise in memory optimization to achieve a 90% reduction in footprint.
-* Took charge of developing and revising product documentation, ensuring it remained up-to-date
-with the latest specifications and enhancements.
-* Streamlined the validation process by developing testing scripts, cutting testing time in half.
-* Pioneered new approaches for device recovery from its bricked state, cutting testing time by 40%.
-* Demonstrated exceptional problem-solving abilities by diagnosing and resolving critical bugs in the Firmware Update module contributing to a seamless production process.
-* Collaborated with product managers and engineers to triage product malfunction.
-* Presented validation report to senior management and technical teams.
 
 ***
 
