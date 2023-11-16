@@ -35,7 +35,7 @@ _Mobile App Developer_
 **Qualcomm Inc**
 _Software Engineer: Developer_
 
-As a Customer Engineer at Qualcomm Inc, I analyzed and fixed problems in mobile security modules, making sure systems worked smoothly. I also helped make Android security features for phones and IoT devices. In my role as a Developer and Triage Engineer at Qualcomm, I improved a low-power mode, reduced memory use, and made product documentation better. I also made testing faster, fixed important bugs, and worked with others to fix product issues.
+As an Engineer at Qualcomm Inc, I analyzed and fixed problems in mobile security modules, making sure systems worked smoothly. I also helped make Android security features for phones and IoT devices. In my role as a Developer and Triage Engineer at Qualcomm, I improved a low-power mode, reduced memory use, and made product documentation better. I also made testing faster, fixed important bugs, and worked with others to fix product issues.
 
 
 ***
