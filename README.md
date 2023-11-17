@@ -1,6 +1,8 @@
 ## Introduction
-Hi, I am **Shiva Kumar Jayaraman**. I am a seasoned software engineer, and a competent Data Analyst. Below is a glimpse of my career so far. 
-My career began as an Software Engineer for an Embedded company. I have very keen eye for all things data so for the next phase of my career I pivot into becoming a **Data Scientist**. 
+> _The most important step is always the next one._ **Dalinar**
+
+
+Hi, I am **Shiva Kumar Jayaraman**. I am a software engineer and I love data analysis. I create beautiful solutions for interesting problems using Data Analysis, Natural Language Processing and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
 
 <!-- [Link to another page](./another-page.html). -->
 ***
@@ -23,7 +25,7 @@ _**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding
 
 ## Experience
 
-My professional career has been multifaceted. I've been a Embedded Engineer largely in the first half. Now I create innovative solutions for interesting problems using Data Analysis, Natural Language Processing and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
+
 
 <!-- **FlyEasy**
 _Mobile App Developer_
@@ -62,7 +64,6 @@ _**Other Platforms**_: Linux, Docker, Databricks.
   * Favourite genres: Fantasy Fiction and self help.
   
 
-> _The most important step is always the next one._ **Dalinar**
 
 <!-- > This is a blockquote following a header.
 >
