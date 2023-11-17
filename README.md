@@ -1,7 +1,6 @@
 ## Introduction
 > _The most important step is always the next one._ **Dalinar**
 
-
 Hi, I am **Shiva Kumar Jayaraman**. I am a software engineer and I love data analysis. I create beautiful solutions for interesting problems using Data Analysis, Natural Language Processing and Machine Learning. I am always learning new technologies and creating projects to integrate them into one cohesive product.
 
 <!-- [Link to another page](./another-page.html). -->
