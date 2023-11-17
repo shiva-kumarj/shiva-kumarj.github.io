@@ -25,14 +25,10 @@ _**Programmatic advertisement: Cost Per Million Prediction for Real-Time-Bidding
 
 ## Experience
 
-
-
 <!-- **FlyEasy**
 _Mobile App Developer_
 - Frontend developer for the FlyEasy mobile application.
 - Converted design screens into working mockups. -->
-
-### Embedded Engineer
 
 **Qualcomm Inc**
 _Software Engineer: Developer_
