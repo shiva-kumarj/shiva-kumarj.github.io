@@ -30,10 +30,18 @@ _Mobile App Developer_
 - Frontend developer for the FlyEasy mobile application.
 - Converted design screens into working mockups. -->
 
-**Qualcomm Inc**
-_Software Engineer: Developer_
+**ThunderSoft India Pvt. Ltd**
+_Software Engineer: Data Engineer_
 
-As an Engineer at Qualcomm Inc, I analyzed and fixed problems in mobile security modules, making sure systems worked smoothly. I also helped make Android security features for phones and IoT devices. In my role as a Developer and Triage Engineer at Qualcomm, I improved a low-power mode, reduced memory use, and made product documentation better. I also made testing faster, fixed important bugs, and worked with others to fix product issues.
+<!-- Data Engineer Summary: Mobile & IoT Products -->
+- Expert in data extraction, cleaning, and automation for mobile and IoT products.
+- Streamlined data workflows with Python scripts and Prefect orchestration.
+- Implemented data validation systems and improved product documentation.
+- Developed testing scripts, significantly reducing testing time.
+- Effectively communicated data insights to both technical and non-technical audiences.
+
+<!-- As an Data Engineer at ThunderSoft Inc, I worked to maintain data pipelines that extracted mobile device logs from multiple sources,  
+I analyzed and fixed problems in mobile security modules, making sure systems worked smoothly. I also helped make Android security features for phones and IoT devices. In my role as a Developer and Triage Engineer at Qualcomm, I improved a low-power mode, reduced memory use, and made product documentation better. I also made testing faster, fixed important bugs, and worked with others to fix product issues. -->
 
 
 ***
